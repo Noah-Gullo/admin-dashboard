@@ -1,0 +1,13 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr, 6fr;
+    grid-template-rows: 1fr, 5fr;
+}
+
+.sidebar{
+    background-color: #1992d4;
+}
+
+.content{
+    background-color: #e2e8f0;
+}
