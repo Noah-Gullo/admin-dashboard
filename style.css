@@ -13,7 +13,7 @@ html, body{
     padding: 0px;
 }
 
-p{
+p, h4, h5{
     font-family: "roboto", Arial, Helvetica, sans-serif;
 }
 
@@ -29,39 +29,42 @@ p{
     margin-left: 40px;
 }
 
-#upperheader{
+#upper-header{
     display: flex;
     justify-content: flex-start;
     margin-left: 20px;
     align-items: center;
 }
 
-#upperrightheader{
+#upper-right-header{
     display: flex;
     margin-left: 150px;
     gap: 15px;
 }
 
-#upperleftheader{
+#upper-left-header{
     display: flex;
     gap: 20px;
 }
 
+#search-icon, #notification-icon{
+    width: 20px;
+}
 #profile-picture{
     align-self: center;
 }
 
-#lowerheader{
+#lower-header{
     display: flex;
     flex-grow: 0;
     align-items: center;
 }
 
-#lowerleftheader{
+#lower-left-header{
     display: flex;
 }
 
-#headerbuttons{
+#header-buttons{
     display: flex;
     margin-left: 500px;
     gap: 20px;
@@ -154,4 +157,12 @@ p{
 .sidebar-icon{
     width: 20px;
     filter: brightness(0) invert(1);
+}
+
+.star-icon, .view-icon, .share-icon{
+    width: 20px;
+}
+
+.trending-profile-pictures{
+    width: 50px;
 }
