@@ -160,6 +160,45 @@ p, h4, h5{
     color: var(--dark-gray)
 }
 
+#content .announcements,
+#content .trending .trending-users{
+    background-color: white;
+    margin-left: 30px;
+    margin-right: 100px;
+    border-radius: 10px;
+    box-shadow: 0px -4px 3px -3px inset #a9a9a9; 
+}
+
+#content .announcements h4,
+#content .announcements p{
+    margin: 0px;
+    padding: 0px;   
+}
+
+#content .announcements{
+    padding-top: 30px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+#content .announcements .announcement{
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--light-gray)
+}
+
+#content .announcements .announcement.announcement-no-border{
+    border-bottom: none;
+    margin-bottom: -40px;
+}
+
+#announcements-text,
+#content .trending h4{
+    margin-left: 30px;
+}
+
 #content .announcements{
     grid-row: 2 / 3;
     grid-column: 3 / 4;
