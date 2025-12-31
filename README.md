@@ -1,4 +1,15 @@
 # Admin Dashboard
+## Link:
+https://noah-gullo.github.io/admin-dashboard/
+
+## Description:
+The seventh project of The Odin Project and the last project of the "Intermediate HTML and CSS Course". A more complex web layout that utilizes Grid, FlexBox, SVGs and a variety of intermediate HTML/CSS concepts.
+
+## Skills:
+This project tested my knowledge of CSS Grid and FlexBox and gave me an opportunity to combine the two to create more complex layouts. I got significant practice building a website from scratch to match a given project design. 
+
+## Reflection:
+This project definitely took longer than I anticipated as there were many different icons and images that I had to find, input, and edit to match the design file given. It also took a bit of debugging to get to the correct layout by blending Grid and FlexBox.
 
 ## Credits:
 Font is [Roboto](https://fonts.google.com/specimen/Roboto) from [Google Fonts](https://fonts.google.com/)
