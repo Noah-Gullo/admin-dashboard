@@ -7,5 +7,15 @@ The following images are from [The Odin Project's](https://www.theodinproject.co
 * Cat profile picture
 
 The following icons are from [Material Design Icons](https://pictogrammers.com/library/mdi/):
-* [Magnify](https://pictogrammers.com/library/mdi/icon/magnify/)
-* [Bell Ring Outline](https://pictogrammers.com/library/mdi/icon/bell-ring-outline/)
+* [Search](https://pictogrammers.com/library/mdi/icon/magnify/)
+* [Notification](https://pictogrammers.com/library/mdi/icon/bell-ring-outline/)
+* [Dashboard](https://pictogrammers.com/library/mdi/icon/view-dashboard/)
+* [Houme](https://pictogrammers.com/library/mdi/icon/home/)
+* [Profile](https://pictogrammers.com/library/mdi/icon/card-account-details-outline/)
+* [Messages](https://pictogrammers.com/library/mdi/icon/message/)
+* [History](https://pictogrammers.com/library/mdi/icon/clock-time-three/)
+* [Tasks](https://pictogrammers.com/library/mdi/icon/note-multiple/)
+* [Communities](https://pictogrammers.com/library/mdi/icon/account-group/)
+* [Settings](https://pictogrammers.com/library/mdi/icon/cog/)
+* [Support](https://pictogrammers.com/library/mdi/icon/help-box/)
+* [Privacy](https://pictogrammers.com/library/mdi/icon/shield-check/)
