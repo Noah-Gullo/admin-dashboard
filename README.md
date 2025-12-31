@@ -3,7 +3,7 @@
 ## Credits:
 Font is [Roboto](https://fonts.google.com/specimen/Roboto) from [Google Fonts](https://fonts.google.com/)
 
-The following images are from [The Odin Project's](https://www.theodinproject.com/) [design specifications](https://cdn.statically.io/gh/TheOdinProject/curriculum@43cc6ab69fdfbef40d431a65677d2144668930ac/intermediate_html_css/grid/project_admin_dashboard/imgs/dashboard-project.png) in [this project.](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard)
+The following images are from [The Odin Project's](https://www.theodinproject.com/about) [design specifications](https://cdn.statically.io/gh/TheOdinProject/curriculum@43cc6ab69fdfbef40d431a65677d2144668930ac/intermediate_html_css/grid/project_admin_dashboard/imgs/dashboard-project.png) in [this project.](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard)
 * "Morgan"'s Cat profile picture
 * "Tegan"'s pink leopard profile picture
 * "Kendall"'s cartoon spiderman profile picture
